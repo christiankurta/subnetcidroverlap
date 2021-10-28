@@ -11,14 +11,14 @@ e.g.: <br>
 <br>
 You can use this script to find overlapping Subnets.<br>
 <br>
-Usage:<br>
+<b>Usage</b><br>
 cat mysubnets.txt | ./subnetcidroverlap.pl<br>
 <br>
 The format of mysubnetlist.txt:<br>
 10.201.40.0/24<br>
 10.201.40.0/23<br>
 <br>
-Installation:<br>
+<b>Installation</b>:<br>
 Install all required Modules using CPAN:<br>
 sudo perl -MCPAN -e shell<br>
 install enum<br>
