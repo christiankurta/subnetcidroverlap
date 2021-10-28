@@ -11,7 +11,7 @@ e.g.:
 You can use this script to find overlapping Subnets.
 
 Usage:
-cat mysubnetlist.txt | ./subnetcalk.pl
+cat mysubnets.txt | ./subnetcidroverlap.pl
 
 The format of mysubnetlist.txt:
 10.201.40.0/24
