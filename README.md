@@ -5,7 +5,7 @@ This script finds the needle in the haystack.
 If you have a list of Subnets in the format:
 SUBNET/CIDR
 e.g.: 
-10.201.40.0/24
+10.201.40.0/24<br>
 10.201.40.0/23
 
 You can use this script to find overlapping Subnets.
